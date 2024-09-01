@@ -1,2 +1,1 @@
-# Internship
 Data Analysis
