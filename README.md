@@ -1,2 +1,2 @@
-# Data-Analysis
-Internship
+# Internship
+Data Analysis
